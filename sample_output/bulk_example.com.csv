@@ -1,0 +1,6 @@
+add,@,5,A,192.0.2.27
+add,@,3600,NS,ns1.example.com
+add,@,3600,NS,ns2.example.com
+add,@,600,MX,10 mail.example.com
+add,_dmarc,600,TXT,v=DMARC1; p=none; sp=none; rua=mailto:dmarc@example.com;
+add,_ldap._tcp,3600,SRV,0 100 389 dc01.example.com

@@ -1,0 +1,5 @@
+add,@,5,A,192.0.2.48
+add,app01,600,A,192.0.2.45
+add,crm,600,A,192.0.2.53
+add,auth,600,A,192.0.2.24
+add,_kerberos._tcp,3600,SRV,0 100 88 dc01.corp.example.com
